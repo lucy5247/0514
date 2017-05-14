@@ -92,6 +92,8 @@
         background-color: #333;
         color: #eee;
         text-decoration: none;
+        
+        transition: all .3s;
     }
     .btn:hover{
         background-color:#ccc;
